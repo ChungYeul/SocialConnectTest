@@ -21,6 +21,7 @@
 		0069CCB2188E0D11002D0C3A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0069CC94188E0D11002D0C3A /* UIKit.framework */; };
 		0069CCBA188E0D11002D0C3A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0069CCB8188E0D11002D0C3A /* InfoPlist.strings */; };
 		0069CCBC188E0D11002D0C3A /* SocialConnectTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0069CCBB188E0D11002D0C3A /* SocialConnectTestTests.m */; };
+		0069CCC8188E0E83002D0C3A /* image.png in Resources */ = {isa = PBXBuildFile; fileRef = 0069CCC7188E0E83002D0C3A /* image.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		0069CCB7188E0D11002D0C3A /* SocialConnectTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SocialConnectTestTests-Info.plist"; sourceTree = "<group>"; };
 		0069CCB9188E0D11002D0C3A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0069CCBB188E0D11002D0C3A /* SocialConnectTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SocialConnectTestTests.m; sourceTree = "<group>"; };
+		0069CCC7188E0E83002D0C3A /* image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		0069CC96188E0D11002D0C3A /* SocialConnectTest */ = {
 			isa = PBXGroup;
 			children = (
+				0069CCC7188E0E83002D0C3A /* image.png */,
 				0069CC9F188E0D11002D0C3A /* AppDelegate.h */,
 				0069CCA0188E0D11002D0C3A /* AppDelegate.m */,
 				0069CCA2188E0D11002D0C3A /* Main.storyboard */,
@@ -231,6 +234,7 @@
 				0069CCA9188E0D11002D0C3A /* Images.xcassets in Resources */,
 				0069CC9B188E0D11002D0C3A /* InfoPlist.strings in Resources */,
 				0069CCA4188E0D11002D0C3A /* Main.storyboard in Resources */,
+				0069CCC8188E0E83002D0C3A /* image.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
